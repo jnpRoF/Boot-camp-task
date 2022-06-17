@@ -1,0 +1,135 @@
+* {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+  text-decoration: none;
+}
+.page-top-info {
+  background: #f8f7f7;
+  padding: 60px 0 70px;
+}
+.instructor {
+  width: 100px;
+  height: 100px;
+}
+.site-pagination a {
+  color: #414141;
+}
+.contact-social {
+  margin-bottom: 85px;
+  padding-top: 20px;
+}
+
+.contact-form input,
+.contact-form textarea {
+  width: 100%;
+  height: 44px;
+  border: none;
+  padding: 0 18px;
+  background: #f0f0f0;
+  border-radius: 40px;
+  margin-bottom: 17px;
+  font-size: 14px;
+}
+.contact-form textarea {
+  padding-top: 16px;
+  border-radius: 18px;
+  height: 175px;
+  margin-bottom: 32px;
+}
+.site-btn {
+  border: none;
+  font-size: 14px;
+  font-weight: 600;
+  min-width: 167px;
+  padding: 18px 47px 14px;
+  border-radius: 50px;
+  background: #f51167;
+  color: #fff;
+  line-height: normal;
+  cursor: pointer;
+  text-align: center;
+}
+.contact-social a{
+  display: inline-flex;
+width: 32px;
+height: 32px;
+background: #f0f0f0;
+color: #414141;
+font-size: 14px;
+border-radius: 50%;
+align-items: center;
+justify-content: center;
+margin-right: 12px;
+}
+ .product-item {
+  
+text-align: center;
+} 
+.product-item .pi-pic{
+  position: relative;
+display: block;
+}
+.imag{
+  width: 450px;
+  height: 280px;
+}
+.img{
+width: 270px;
+height: 295px;
+}
+.hero-wrap{
+  background-image: url('Images/greensmallbottle.png');
+}
+.hero-wrap, .hero-bread{
+  padding: 1em 0;
+}
+.hero-wrap, .slider-text, .bread{
+  font-weight: 100;
+color: #000000;
+font-size: 40px;
+font-family: "Lato", Arial, sans-serif;
+letter-spacing: 3px;
+}
+.breadcrumbs{
+  text-transform: uppercase;
+font-size: 13px;
+letter-spacing: 1px;
+margin-bottom: 0;
+}
+.heading-section h2{
+font-size: 30px;
+font-weight: 400;
+position: relative;
+text-transform: uppercase;
+font-family: "Roboto Condensed", Arial, sans-serif;
+letter-spacing: 6px;
+}
+.services{
+  font-size: 14px;
+text-transform: uppercase;
+font-weight: 400;
+margin-bottom: 20px;
+letter-spacing: 3px;
+}
+.pic{
+  width: 80px;height: 80px;
+}
+.pix{
+  height: 400px;
+width: 400px;
+background-repeat: no-repeat;
+}
+.heading-section-bold h2{
+  text-transform: uppercase;
+font-size: 70px;
+font-weight: 400;
+line-height: 1;
+font-family: "Roboto Condensed", Arial, sans-serif;
+color: #000000;
+}
+@media screen and (min-width: 768px) {
+  .news-input {
+    width: 50%;
+  }
+}
